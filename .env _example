@@ -1,0 +1,8 @@
+# OpenAI
+OPENAI_API_KEY=token_openai
+
+#evolution
+EVOLUTION_API_TOKEN=token_evolution
+
+# Flask
+FLASK_PORT=5000
